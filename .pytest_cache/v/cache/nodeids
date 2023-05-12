@@ -1,0 +1,4 @@
+[
+  "tests.py::test_email_login",
+  "tests.py::test_phone_login"
+]
